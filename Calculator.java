@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
-    	int x = 17;
-    	int y = 7;
+    	int x = 9;
+    	int y = 1;
     	char mathOperation = '^';
 
     	if (mathOperation == '+') {
